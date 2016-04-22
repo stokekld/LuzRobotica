@@ -1,0 +1,9 @@
+Package: Robot
+Priority: normal
+Maintainer: David Reyes <david.proteco@gmail.com>
+Architecture: all
+Version: 1.0
+Depends: python
+Description: Programa para mover un robot de led
+
+
